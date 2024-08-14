@@ -1,0 +1,9 @@
+a=2
+b=5
+c=6
+d=8
+e=1
+sum=(a+b+c+d+e)
+print("Sum of numbers is=", sum)
+avg=sum/5
+print("Average of numbers=", avg)
